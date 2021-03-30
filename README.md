@@ -4,7 +4,7 @@
 ### Descrição do Projeto
 ### Objetivo
 ### Classes/entidades e seus atributos
-### Arquitetura
-### Banco de Dados
 ### Informações adicionais
-
+### Banco de Dados
+### Arquitetura
+![Diagrama eduserra model vo](https://user-images.githubusercontent.com/54067766/112907094-a4a17800-90c3-11eb-9577-cf6accd04fc8.png)
